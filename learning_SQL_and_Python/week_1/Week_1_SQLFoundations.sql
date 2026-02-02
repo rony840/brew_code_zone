@@ -246,9 +246,10 @@ CREATE TABLE enrollment (
 Composite keys (multi-column) are common for many-to-many tables.
 */
 
-/*
-✨ *Master SQL & Python one week at a time*  
-💪 *Level up your skills week-by-week*
 
-*𝗙𝗼𝗹𝗹𝗼𝘄 ╰┈➤ [`@brew_code zone`](https://www.instagram.com/brew_code_zone/) on* 🅾 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ★ *for daily Learnings*
+/*
+✨ Master SQL & Python one week at a time
+💪 Level up your skills week-by-week
+
+𝗙𝗼𝗹𝗹𝗼𝘄 ╰┈➤ [`@brew_code zone`](https://www.instagram.com/brew_code_zone/) on 🅾 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ★ for daily Learnings
 */
