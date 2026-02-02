@@ -37,11 +37,9 @@ CREATE DATABASE learn_sql;
 
 -- CREATE TABLE: Creates a new table
 CREATE TABLE employees (
-    emp_id SERIAL PRIMARY KEY,          -- Employee ID
-    emp_name TEXT NOT NULL,             -- Employee name
-    emp_email TEXT UNIQUE,              -- Email must be unique
-    emp_salary INT CHECK (emp_salary > 0),  -- Salary must be positive
-    emp_dept TEXT
+    emp_id INT,                 -- Employee ID
+    emp_name VARCHAR(20),       -- Employee name
+    emp_department VARCHAR(20)  -- Employee department
 );
 
 /*
@@ -51,11 +49,11 @@ CREATE TABLE employees (
 */
 
 -- INSERT INTO: Adds rows to a table
-INSERT INTO employees (emp_name, emp_email, emp_salary, emp_dept) VALUES
-('John', 'john@company.com', 70000, 'IT'),
-('Sara', 'sara@company.com', 60000, 'HR'),
-('Anita', 'anita@company.com', 80000, 'Accounts'),
-('Robert', 'robert@company.com', 50000, 'Sales');
+INSERT INTO employees (emp_id, emp_name, emp_department) VALUES
+(1, 'John', 'IT'),
+(2, 'Sara', 'HR'),
+(3, 'Anita', 'Accounts'),
+(4, 'Robert', 'Sales');
 
 /*
 -----------------------
@@ -67,7 +65,7 @@ INSERT INTO employees (emp_name, emp_email, emp_salary, emp_dept) VALUES
 SELECT * FROM employees;
 
 -- SELECT specific columns
-SELECT emp_name, emp_salary FROM employees;
+SELECT emp_name, emp_department FROM employees;
 
 /*
 -----------------------
