@@ -4,5 +4,5 @@
 💪 *Level up your skills week-by-week*
 
 ### Index:
-0. [Week_0](./learning_SQL_and_Python/week_0/GettingStarted.md)
-1. [Week_1](./learning_SQL_and_Python/week_1/Week_1_Foundations.md)
+0. [Week_0](./learning_SQL_and_Python/weekly_learnings/week_0/GettingStarted.md)
+1. [Week_1](./learning_SQL_and_Python/weekly_learnings/week_1/Week_1_Foundations.md)
