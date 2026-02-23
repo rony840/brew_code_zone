@@ -123,7 +123,9 @@ DROP DATABASE Learn_SQL;
 
 <br>
 
-*Click [here](./Week_1_SQLFoundations.sql) to get postgreSQL file containing working queries with examples of different Datatypes and Constraints*
+*Click [here](./SQLFoundations.sql) to get SQLFoundations.sql (postgreSQL) file containing working queries with examples of different Datatypes and Constraints*
+
+*Click [here](./PythonBasics.ipynb) to get PythonBasics.ipynb file which has all the learnings of python basics with appropriate examples and comments to understand all the concepts thoroughly*
 
 <br>
 
