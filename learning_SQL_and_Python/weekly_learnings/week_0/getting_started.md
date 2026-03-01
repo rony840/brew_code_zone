@@ -82,7 +82,7 @@
 - *There are 35+ keywords in Python.*
 - Example: `if, else, class, True, False, return`
 
-<img src="../../assets/pythonKeywords.png" alt="PythonKeywords" center width="400">
+<img src="../../assets/python_keywords.png" alt="PythonKeywords" center width="400">
 
 3. Literals
 - Fixed values in a program:

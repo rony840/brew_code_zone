@@ -4,4 +4,4 @@
 💪 *Level up your skills week-by-week*
 
 ### Index:
-1. [Week 1 - Basic Mini Challenges](./week_1/Challenges.md)
+1. [Week 1 - Basic Mini Challenges](./week_1/challenges.md)

@@ -4,5 +4,5 @@
 💪 *Level up your skills week-by-week*
 
 ### Index:
-0. [Week 0 - Getting Started](./week_0/GettingStarted.md)
-1. [Week 1 - Foundations](./week_1/Foundations.md)
+0. [Week 0 - Getting Started](./week_0/getting_started.md)
+1. [Week 1 - Foundations](./week_1/foundations.md)
