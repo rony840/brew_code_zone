@@ -20,8 +20,8 @@ CREATE DATABASE StudentDB;
 CREATE TABLE Students(
     student_id SERIAL PRIMARY KEY,
     student_name VARCHAR(50),
-    age INT,
-    course_name VARCHAR(30),
+    age SMALLINT,
+    course_name VARCHAR(30)
 );
 
 INSERT INTO Students(student_name, age, course_name) VALUES
