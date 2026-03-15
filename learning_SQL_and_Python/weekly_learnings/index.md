@@ -5,4 +5,5 @@
 
 ### Index:
 0. [Week 0 - Getting Started](./week_0/getting_started.md)
-1. [Week 1 - Foundations](./week_1/foundations.md)
+1. [Week 1 - SQL Foundations](./week_1/sql_foundation_notes.md)
+2. [Week 1 - Python Basics](./week_1/python_basics.ipynb)
